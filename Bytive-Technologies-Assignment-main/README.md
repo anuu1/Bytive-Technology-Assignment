@@ -5,7 +5,7 @@ Follow the steps below to set up the project locally:
 
 1. Clone the Repository
 ```
-git clone https://github.com/apoorvraj6/Bytive-Technologies-Assignment
+git clone https://github.com/anuu1/Bytive-Technology-Assignment
 ```
 2. Navigate to the Project Directory
 ```
